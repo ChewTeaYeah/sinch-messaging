@@ -1,0 +1,22 @@
+{
+  "name": "sinch-messaging",
+  "version": "0.0.1",
+  "description": "A node module for sending and monitoring SMS messages using Sinch",
+  "main": "sinch_messaging.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SMS",
+    "Sinch",
+    "Text",
+    "message"
+  ],
+  "author": "Mihir Patel <mpatel88@gmail.com>, Mikhail Gorbachev <gorbachevma@gmail.com>",
+  "license": "ISC",
+  "repository": "https://github.com/ChewTeaYeah/sinch-messaging.git",
+  "dependencies": {
+    "request": "^2.49.0",
+    "sinch-auth": "^0.0.1"
+  }
+}
